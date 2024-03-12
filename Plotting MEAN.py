@@ -47,3 +47,4 @@ for i in range(0, 15, 3):
         voller_pfad = os.path.join(Plotspeicher, dateiname)
         plt.savefig(voller_pfad)
         plt.close()
+
